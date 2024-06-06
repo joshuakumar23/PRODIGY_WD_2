@@ -18,18 +18,6 @@ This is a simple stopwatch web application created as part of the internship tas
 - CSS
 - JavaScript
 
-## Setup
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/Stopwatch-Project.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Stopwatch-Project
-    ```
-3. Open `index.html` in your web browser.
-
 ## Usage
 
 - Click "Start" to begin the stopwatch.
